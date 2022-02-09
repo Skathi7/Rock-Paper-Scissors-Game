@@ -1,4 +1,4 @@
-# RockPaperScissors-
+# RockPaperScissors
 Rock paper scissors game - still in the works
 
 This is meant to be a rock paper scissors game that runs in java. It is still in the works and not completed yet, this is an ongoing project.
