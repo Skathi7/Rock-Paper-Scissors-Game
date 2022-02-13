@@ -2,7 +2,7 @@
 When running this program be sure all the sub-folders are copied
 
 **Dependencies**
- - Java installed
+ - Java install
 
 **About**
 
