@@ -1,7 +1,3 @@
 # RockPaperScissors
-Rock paper scissors game - still in the works
-
-This is meant to be a rock paper scissors game that runs in java. It is still in the works and not completed yet, this is an ongoing project.
-The part completed so far is the main page. It will have another window where the user will have the choice between pressing rock, paper or scissors and the program will randomly choose one of the three in response and compare the to see who is the winner 
-
-When cloning this be sure that the image rps.png is in the bin folder or it will not run
+Rock paper scissors game
+This is meant to be a rock paper scissors game that runs in Java. It has a main page, a Play Game button that takes the user to the next window. On the next window the user can play the work paper scissor game, it will give the user three chooses (rock, paper, scissors) and it will get a random choice from the computer. The program will display both the user's choice and the comptuer's random choice. The user also has the choice to return to the home page on the game window
